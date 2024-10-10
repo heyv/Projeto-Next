@@ -1,7 +1,8 @@
 Projeto Next.js simulando uma tela de cadastro, login e perfil com dados salvos.
 
 - Utilizando as tecnologias de ReactJS com Typescript, Nextjs e estilização com Material-UI.
-instruções:
+
+Instruções:
 
 - Instalar o pacote yarn;
 
